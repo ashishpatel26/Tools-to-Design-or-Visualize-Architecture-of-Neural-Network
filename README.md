@@ -1,6 +1,6 @@
 ## Tools to Design or Visualize Architecture of Neural Network
 
-1. [**draw_convnet**](https://github.com/gwding/draw_convnet)
+1. [**draw_convnet**](https://github.com/gwding/draw_convnet) : Python script for illustrating Convolutional Neural Network (ConvNet)
 
  ![img](https://raw.githubusercontent.com/gwding/draw_convnet/master/convnet_fig.png) 
 
