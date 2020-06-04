@@ -92,7 +92,7 @@
 
 9. **[ Netron ](https://github.com/lutzroeder/Netron)**
 
- ![screenshot.png](https://github.com/lutzroeder/netron/blob/master/media/screenshot.png?raw=true) 
+ ![screenshot.png](https://github.com/lutzroeder/netron/raw/master/.github/screenshot.png) 
 
 10. **[DotNet](https://github.com/martisak/dotnets)**
 
