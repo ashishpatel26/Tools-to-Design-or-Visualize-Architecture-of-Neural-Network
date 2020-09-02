@@ -157,7 +157,8 @@ Neataptic offers flexible neural networks; neurons and synapses can be removed w
 
 21. [**Texample**](http://www.texample.net/tikz/examples/neural-network/)
 
-![Neural network](http://www.texample.net/media/tikz/examples/PNG/neural-network.png)
+![Neural Network](https://texample.net/media/tikz/examples/PNG/neural-network.png) 
+
 
 ```
 \documentclass{article}
