@@ -121,7 +121,7 @@ data(infert, package="datasets")
 plot(neuralnet(case~parity+induced+spontaneous, infert))
 ```
 
-[![neuralnet](https://i.stack.imgur.com/yyftd.png)](https://
+![neuralnet](https://i.stack.imgur.com/yyftd.png)
 
 16. **[GraphCore](https://www.graphcore.ai/posts/what-does-machine-learning-look-like)** -  These approaches are more oriented towards visualizing neural network operation, however, NN architecture is also somewhat visible on the resulting diagrams. 
 
