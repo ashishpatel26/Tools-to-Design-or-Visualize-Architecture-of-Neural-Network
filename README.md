@@ -6,8 +6,6 @@
 
 2. [**visualkeras**](https://github.com/paulgavrikov/visualkeras/) :  Visualkeras is a Python package to help visualize Keras (either standalone or included in tensorflow) neural network architectures. It allows easy styling to fit most needs. As of now it supports layered style architecture generation which is great for CNNs (Convolutional Neural Networks) and a grap style architecture.
 
-Generating neural network architectures is easy:
-
 ```python
 import visualkeras
 
