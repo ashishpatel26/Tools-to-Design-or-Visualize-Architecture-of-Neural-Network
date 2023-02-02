@@ -232,6 +232,10 @@ Neataptic offers flexible neural networks; neurons and synapses can be removed w
 23. [**Quiver**](https://github.com/keplr-io/quiver)
 
  ![gzqll3](https://cloud.githubusercontent.com/assets/5866348/20253975/f3d56f14-a9e4-11e6-9693-9873a18df5d3.gif) 
+ 
+24. [**GanLab**](https://poloclub.github.io/ganlab/)
+
+ ![hooooo](https://poloclub.github.io/ganlab/figures/figure-data-selected.png)
 
 **References :**  
 
