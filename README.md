@@ -136,12 +136,12 @@ visualkeras.layered_view(model)
 
 16. **NNet - R Package** - **[Tutorial](https://beckmw.wordpress.com/2013/03/04/visualizing-neural-networks-from-the-nnet-package/)**
 
-```
+```r
 data(infert, package="datasets")
 plot(neuralnet(case~parity+induced+spontaneous, infert))
 ```
 
-[![neuralnet](https://i.stack.imgur.com/yyftd.png)](https://
+![neuralnet](https://i.stack.imgur.com/yyftd.png)
 
 17. **[GraphCore](https://www.graphcore.ai/posts/what-does-machine-learning-look-like)** -  These approaches are more oriented towards visualizing neural network operation, however, NN architecture is also somewhat visible on the resulting diagrams. 
 
@@ -180,7 +180,7 @@ Neataptic offers flexible neural networks; neurons and synapses can be removed w
 ![Neural Network](https://texample.net/media/tikz/examples/PNG/neural-network.png) 
 
 
-```
+```latex
 \documentclass{article}
 
 \usepackage{tikz}
