@@ -4,7 +4,7 @@
 
 Net2Vis automatically generates abstract visualizations for convolutional neural networks from Keras code.
 
-![](https://storage.googleapis.com/groundai-web-prod/media/users/user_299833/project_401171/images/application.png)
+![](https://viscom.publications.uni-ulm.de/api/uploads/4/baeuerle19net2vis-teaser-application.png)
 
 ## [visualkeras](https://github.com/paulgavrikov/visualkeras/)
 
@@ -183,7 +183,7 @@ These approaches are more oriented towards visualizing neural network operation,
 
 Neataptic offers flexible neural networks; neurons and synapses can be removed with a single line of code. No fixed architecture is required for neural networks to function at all. This flexibility allows networks to be shaped for your dataset through neuro-evolution, which is done using multiple threads.
 
-![img](https://camo.githubusercontent.com/4326c3f603b828b61fd63d927acca2cfc152773f/68747470733a2f2f692e6779617a6f2e636f6d2f66353636643233363461663433646433613738633839323665643230346135312e706e67)
+![img](https://i.gyazo.com/f566d2364af43dd3a78c8926ed204a51.png)
 
 ## [TensorSpace](https://tensorspace.org/)
 
