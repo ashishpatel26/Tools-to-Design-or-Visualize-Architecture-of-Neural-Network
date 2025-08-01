@@ -260,6 +260,10 @@ Interactive Notation for Computational Graphs <https://mlajtos.github.io/moniel/
 
 ![gzqll3](https://cloud.githubusercontent.com/assets/5866348/20253975/f3d56f14-a9e4-11e6-9693-9873a18df5d3.gif)
 
+## [**GanLab**](https://poloclub.github.io/ganlab/)
+
+ ![hooooo](https://poloclub.github.io/ganlab/figures/figure-data-selected.png)
+
 **References:**
 
 1) <https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures>
